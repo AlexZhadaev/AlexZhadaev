@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey Zhadaev
 - 👀 I’m interested in creating mobile apps
-- 🌱 I’m currently learning Modern Concurrency in Swift
+- 🌱 I’m currently learning Auto Layout
 - 📫 How to reach me - mail to alex.zhadaev4@gmail.com
 
 <!---
