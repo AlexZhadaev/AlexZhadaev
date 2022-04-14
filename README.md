@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey Zhadaev
 - 👀 I’m interested in creating mobile apps
-- 🌱 I’m currently learning Auto Layout
+- 🌱 I’m currently learning Auto Layout by Tutorials
 - 📫 How to reach me - mail to alex.zhadaev4@gmail.com
 
 <!---
